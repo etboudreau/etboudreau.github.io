@@ -15,3 +15,4 @@ I will be completing my M.Sc. in Civil and Environmental Engineering in the [Mou
 
 You can view my CV here:  
 [View CV (PDF)](assets/pdf/Boudreau_Emma_CV_21052025.pdf){:target="_blank"}
+
