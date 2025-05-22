@@ -1,14 +1,10 @@
-# Minimal Theme
+# Emma Boudreau's Personal Website
 
-[Demo the Theme](https://orderedlist.com/minimal/)
+This site uses the [Minimal Jekyll Theme](https://orderedlist.com/minimal/) and is hosted with [GitHub Pages](https://pages.github.com/).
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+Check out the source [on GitHub](https://github.com/etboudreau/etboudreau.github.io).
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+## License
 
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-
+The theme is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
