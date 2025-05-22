@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
-title: Emma T. Boudreau
-description: Personal website and portfolio
-logo: /assets/images/headshot.jpg
-
-# Optional: if you're planning to use posts
 permalink: /:categories/:year/:month/:title/
+title: Emma T. Boudreau
+logo: /assets/images/headshot.jpg
+description: 
+# Optional: if you're planning to use posts
